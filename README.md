@@ -1,6 +1,6 @@
 # smart-lamp-arduino
 
-![Schema](/Users/turhansel/Desktop/smart-lamp-arduino/photos/smarp-lamp-schema.png)
+![Schema](/photos/smarp-lamp-schema.png)
 
 ## Hey, There! 👋
 
